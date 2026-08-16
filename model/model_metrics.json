@@ -1,0 +1,9 @@
+{
+    "model": "XGBoost",
+    "threshold": 0.5,
+    "macro_f1": 0.619,
+    "severe_recall": 0.649,
+    "severe_precision": 0.361,
+    "roc_auc": 0.739,
+    "average_precision": 0.43
+}
